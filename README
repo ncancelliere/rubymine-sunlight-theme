@@ -1,0 +1,16 @@
+------------------------------------
+ Sunlight RubyMine IDE Color Scheme
+------------------------------------
+
+This color scheme is inspired from Xcode 4.
+
+
+1) Copy the 'Sunlight.xml' file to your ~/Library/Preferences/RubyMine31/colors folder.
+
+2) In RubyMine 3.1 (or higher) under Preferences > Editor > Colors & Fonts choose the
+   Sunlight theme for your Scheme name.
+
+
+That's it!
+
+
